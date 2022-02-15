@@ -8,4 +8,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Amar Musaddad, (https://www.linkedin.com/in/amar-musaddad-423240231/).
+* Amar Musaddad, [Linkedin](https://www.linkedin.com/in/amar-musaddad-423240231/).
+* Gilang Adhan [Linkedin](https://www.linkedin.com/in/gilang-adhan/)
