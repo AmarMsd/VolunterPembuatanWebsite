@@ -9,4 +9,3 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Amar Musaddad, [Likedin](https://www.linkedin.com/in/amar-musaddad-423240231/1).
-* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
