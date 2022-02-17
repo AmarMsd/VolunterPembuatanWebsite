@@ -10,3 +10,4 @@ Berikut daftar Volunter yang diterima:
 
 * Amar Musaddad, [Linkedin](https://www.linkedin.com/in/amar-musaddad-423240231/).
 * Gilang Adhan [Linkedin](https://www.linkedin.com/in/gilang-adhan/)
+* Fachry Husaini [Linkedin](https://www.linkedin.com/in/fachry-husaini-249387232/)
